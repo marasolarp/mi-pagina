@@ -1,0 +1,25 @@
+@media (min-width: 535px)and (max-width: 824px){/*entre estos tamaños las columnas deben ser de 100% de ancho*/
+	[class*="col-"]{/* *aplica a todas las columnas,[]=acceder a todo lo de adentro*/
+    width: 100%;
+  }
+	#navegation{
+    display: none;
+  }
+  #navegationtwo{
+    display: block
+  }
+  .headding-photo{
+    background-image: url(../images/vida.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    opacity: 0.9;
+ } 
+ .title-headding{
+  color:#000080;
+ }
+ .subtitle-headding{
+  color: #000080;
+ }
+} 

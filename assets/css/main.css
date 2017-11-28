@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0;  
+}
+
+#navegation{
+  background-color: #373c42 ;
+  color: #8b8b8b ;
+  padding-left: 3%;
+}
+
+.bootstrap {
+  font-size: 120%;
+  font-weight: bolder;
+  color: #fff;
+}
+.menu {
+  display: inline;
+  padding-left: 0;
+  padding-right: 0;
+}
+.menu:hover {
+  color: #fff;
+}
+#navegationtwo{
+  background-color: #373c42 ;
+  color: #8b8b8b ;
+  padding-left: 3%;
+  display: none;
+}
+i{
+  float: right;
+  color: #fff;
+}
+.headding-photo{
+  background-image: url(../images/billy-huynh-278252.jpg);
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  opacity: 0.9;
+
+}
+.title-headding{
+  color: #8A2BE2;
+  font-size: 4em;
+  margin-top:2em;
+}
+.subtitle-headding{
+  color: hotpink;
+  font-size: 3em;
+}
+.title-info{
+  text-align: justify;
+  margin-bottom: 0.5em;
+}
+.call{
+  background-color: #3bbfff;
+  padding: 0.5em 0.5em;
+  border-radius: 1em;
+ } 
+.info-text{
+  margin-bottom: 0.5em;
+}
+.about-phone{
+  margin-top: 0.5em;
+}
+.photo-card{
+  width: 300px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  border-right:3px solid grey; 
+  border-left: 3px solid grey ;
+  border-top: 3px solid grey;
+}
+.text-card{
+  width: 300px;
+  text-align:justify;
+  border-right:3px solid grey; 
+  border-left: 3px solid grey ;
+  border-bottom:3px solid grey;
+  margin-bottom: 0.5em;
+}
+.card-button{
+  background-color: #3bbfff;
+  padding: 0.5em 0.5em;
+  border-radius: 1em;
+}
+.title-card{
+  width: 300px;
+  border-right:3px solid grey; 
+  border-left: 3px solid grey ;
+}
+.footnote{
+  background-color: #373c42 ;
+  color: #8b8b8b ;
+  padding-left: 3%;
+  text-align: right;
+}
+.paragrahp-footnote{
+  color: #fff;
+}
