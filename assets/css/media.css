@@ -2,6 +2,10 @@
 	[class*="col-"]{/* *aplica a todas las columnas,[]=acceder a todo lo de adentro*/
     width: 100%;
   }
+  body{
+    font-family: 'Cookie', cursive;
+
+  }
 	#navegation{
     display: none;
   }
